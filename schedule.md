@@ -6,6 +6,6 @@ description: The weekly event schedule.
 
 # Weekly Schedule
 
-{% for module in site.modules %}
-{{ module }}
+{% for schedule in site.schedules %}
+{{ schedule }}
 {% endfor %}
