@@ -7,9 +7,9 @@ seo:
   name: CPSC 8420
 ---
 
-# Advance Machine Learning
+# {{ site.tagline }}
 {: .mb-2 }
-{{ Spring 2022 }}
+{{ site.description }}
 {: .fs-6 .fw-300 }
 
 {% if site.announcements %}

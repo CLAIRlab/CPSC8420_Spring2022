@@ -14,8 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: CPSC 8420
-tagline: A Jekyll template for course websites
-description: A modern, highly customizable, responsive Jekyll template for course websites
+tagline: Advanced Machine Learning
+description: CPSC 8420, Spring 2022
 author: Kai Liu
 baseurl: '/CPSC8420_Spring2022' # the subpath of your site, e.g. /blog
 url: 'https://clairlab.github.io' # the base hostname & protocol for your site, e.g. http://example.com
