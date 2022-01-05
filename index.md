@@ -1,10 +1,10 @@
 ---
 layout: home
-title: Just the Class
+title: CPSC 8420
 nav_exclude: true
 seo:
   type: Course
-  name: Just the Class
+  name: Advanced Machine Learning
 ---
 
 # {{ site.tagline }}
