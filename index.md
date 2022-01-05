@@ -4,7 +4,7 @@ title: CPSC 8420
 nav_exclude: true
 seo:
   type: Course
-  name: Advanced Machine Learning
+  name: CPSC 8420
 ---
 
 # {{ site.tagline }}
