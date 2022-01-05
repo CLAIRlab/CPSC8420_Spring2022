@@ -9,7 +9,7 @@ seo:
 
 # Advance Machine Learning
 {: .mb-2 }
-{{ site.description }}
+{{ Spring 2022 }}
 {: .fs-6 .fw-300 }
 
 {% if site.announcements %}
